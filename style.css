@@ -1,0 +1,50 @@
+
+
+.bd-placeholder-img {
+    font-size: 1.125rem;
+    text-anchor: middle;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    user-select: none;
+  }
+
+    header, footer{
+        background: #000000;
+        color: white;       
+    }
+
+    .list-group-item{
+        background: #000000;
+        border-width: 3px;
+        border-color: #423CAB;
+    }
+
+    .btn-default{
+        background: #423CAB;
+        color: white;
+        border-radius: 4px;
+    }
+
+    .linkColor{
+        color: rgb(159, 82, 189);
+    }
+
+    .imgHeader{
+        position: absolute;
+        width: 50%;
+        height: 50%;
+    }
+
+    .btn-light{
+        background: white;
+        color: #423CAB;
+        border-radius: 5px;
+        border-width: 3px;
+        border-color: #423CAB;
+    }
+
+  @media (min-width: 768px) {
+    .bd-placeholder-img-lg {
+      font-size: 3.5rem;
+    }
+  }
