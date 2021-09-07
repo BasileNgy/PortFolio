@@ -29,12 +29,6 @@
         color: rgb(159, 82, 189);
     }
 
-    .imgHeader{
-        position: absolute;
-        width: 50%;
-        height: 50%;
-    }
-
     .btn-light{
         background: white;
         color: #423CAB;
